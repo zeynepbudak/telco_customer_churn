@@ -39,22 +39,3 @@
  Müşteri hesap bilgileri – ne kadar süredir müşteri oldukları, sözleşme, ödeme yöntemi, kağıtsız faturalandırma, aylık ücretler ve toplam ücretler
  Müşteriler hakkında demografik bilgiler - cinsiyet, yaş aralığı ve ortakları ve bakmakla yükümlü oldukları kişiler olup olmadığı
 
-
- GÖREV 1: KEŞİFCİ VERİ ANALİZİ
-           # Adım 1: Genel resmi inceleyiniz.
-           # Adım 2: Numerik ve kategorik değişkenleri yakalayınız.
-           # Adım 3:  Numerik ve kategorik değişkenlerin analizini yapınız.
-           # Adım 4: Hedef değişken analizi yapınız. (Kategorik değişkenlere göre hedef değişkenin ortalaması, hedef değişkene göre numerik değişkenlerin ortalaması)
-           # Adım 5: Aykırı gözlem analizi yapınız.
-           # Adım 6: Eksik gözlem analizi yapınız.
-           # Adım 7: Korelasyon analizi yapınız.
-
- GÖREV 2: FEATURE ENGINEERING
-           # Adım 1:  Eksik ve aykırı değerler için gerekli işlemleri yapınız.
-           # işlemleri uygulayabilirsiniz.
-           # Adım 2: Yeni değişkenler oluşturunuz.
-           # Adım 3:  Encoding işlemlerini gerçekleştiriniz.
-           # Adım 4: Numerik değişkenler için standartlaştırma yapınız.
-           # Adım 5: Model oluşturunuz.
-
-
